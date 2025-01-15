@@ -190,3 +190,8 @@ const App = () => {
 *Por que é útil?*
 
 Esse exercício mostra como criar um estado global usando o Context API e como usar o useEffect para alterar dinamicamente elementos fora do React, como o document.body.
+
+##Print do site
+![image](https://github.com/user-attachments/assets/e66a9259-53c8-44be-8f17-06ab59463592)
+![image](https://github.com/user-attachments/assets/cc10b3c4-a1bc-446c-b58c-f031cf7715dc)
+
